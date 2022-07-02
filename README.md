@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
-- 🥅 2022 Goals: Learn more about c++, c#, and more!
+- 🥅 2022 Goals: Learn more about C++, C#, and more!
 - ⚡ Fun fact: I love listening to music 🎶
 
 ### Connect with me
