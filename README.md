@@ -12,8 +12,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/egor-semenov-57715a230/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/egor-semenov-57715a230/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/_professional_bot_/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/_professional_bot_/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/egorburgas/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/egorburgas/)
 
 ### Languages and Tools
 
