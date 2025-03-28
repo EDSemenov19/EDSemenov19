@@ -1,12 +1,5 @@
 # Hi there, I'm Egor - aka egorburgas👋
 
-## I'm a Student at VSCPI
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other programmers
-- 🥅 2022 Goals: Learn more about C++, C#, and more!
-- ⚡ Fun fact: I love listening to music 🎶
-
 ### Connect with me
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/egor-semenov-57715a230/)
